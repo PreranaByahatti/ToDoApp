@@ -1,0 +1,15 @@
+Designed in Visual Studio Code
+Used MongoDB Compass for backend
+
+To run:
+
+
+1) Open Terminal.
+
+2) Type cd client.
+
+3) Type npm run dev.
+
+4) Press ctrl+ click on the link.
+
+5) Add /register to the url.
